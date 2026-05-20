@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "./backend"
+  ],
+  "graphs": {
+    "medical_graph": "./backend/app/graph.py:graph"
+  },
+  "env": "./backend/.env"
+}
