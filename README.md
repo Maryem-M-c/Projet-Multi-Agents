@@ -186,7 +186,3 @@ Le serveur MCP expose 3 outils :
 - Les termes utilisés : "orientation clinique préliminaire", "synthèse clinique"
 - Le médecin traitant valide obligatoirement avant le rapport final
 
-## Auteurs
-
-Projet académique — Pr. Mohamed YOUSSFI  
-Système multi-agents médical avec LangGraph
